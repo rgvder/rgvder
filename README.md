@@ -20,6 +20,6 @@
 <h3 align="left">Examples of my apps:</h3>
 <ul>
   <li><a href="https://github.com/rgvder/rslang" target="_blank">App for learning English</a></li>
-  <li><a href="https://github.com/rgvder/online-store" target="_blank">Online-store</a></li>
+  <li><a href="https://github.com/rgvder/online-store" target="_blank">Online store</a></li>
   <li><a href="https://github.com/rgvder/async-race" target="_blank">Async race</a></li>
 </ul>
